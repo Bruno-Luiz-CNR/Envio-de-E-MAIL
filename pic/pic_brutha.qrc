@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="pic_brutha">
+    <file>usuario.png</file>
+    <file>topo.png</file>
+    <file>menu.png</file>
+    <file>lateral.png</file>
+    <file>fundo2.png</file>
+    <file>excluir.png</file>
+    <file>enviar.png</file>
+    <file>corpo.png</file>
+    <file>cima.png</file>
+    <file>centro.png</file>
+    <file>back.png</file>
+    <file>adcemail.png</file>
+  </qresource>
+</RCC>
