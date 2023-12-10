@@ -40,3 +40,9 @@ Requisitos:
 Python 3.x
 PySide6
 Este projeto é uma ferramenta útil para quem precisa enviar e-mails para múltiplos destinatários de forma automatizada, mantendo uma interface amigável e responsiva durante o processo.
+
+
+![Captura de tela de 2023-12-10 12-45-17](https://github.com/Bruno-Luiz-CNR/Envio-de-E-MAIL/assets/115126390/bc30b967-acaa-44bd-92b2-0fc5a3e2496f)
+![Captura de tela de 2023-12-10 12-45-28](https://github.com/Bruno-Luiz-CNR/Envio-de-E-MAIL/assets/115126390/9969c3b7-b506-462d-8dd8-3ffe38eeed6f)
+![Captura de tela de 2023-12-10 12-45-59](https://github.com/Bruno-Luiz-CNR/Envio-de-E-MAIL/assets/115126390/eb7db297-23c6-40d3-a8bb-ab8a18bc640b)
+
