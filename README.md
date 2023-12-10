@@ -1,6 +1,6 @@
 #################################################################################################################################################
 LEMBRANDO QUE PARA ACESSAR O SISTEMA A SENHA DE APLICATIVO DE TERCEIROS DEVE ESTAR CONFIGURADA NAS CONFIG DO SEU G-MAIL.
-ESTANDO COM ESSA SENHA NÃO TERA DIFUCLDADES.
+ESTANDO COM ESSA SENHA NÃO TERA DIFICULDADES.
 #################################################################################################################################################
 
 
